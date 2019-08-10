@@ -6,7 +6,7 @@ public class Principal {
 	system.out.println ("hola Mundo");
 	int a;
 	Random random = new Random;
-
+	system.out.println ("hola Mundo por segunda vez");
 	a=random;
 		System.out.println(a);
 
